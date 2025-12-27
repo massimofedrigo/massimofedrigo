@@ -41,6 +41,10 @@ Here are the technologies and tools I use daily:
 
 Here are some of the open-source and personal projects I'm working on:
 
+* **[randomized-svd](https://github.com/massimofedrigo/randomized-svd)** (2025)
+    * A high-performance Python library for computing Randomized Singular Value Decomposition (rSVD) on massive matrices. Features automatic algorithm dispatching, Docker support, and CI/CD pipelines.
+    * *Stack:* Python, NumPy, Docker, GitHub Actions.
+
 * **[Cyphermesh](https://github.com/massimofedrigo/cyphermesh)** (2024)
     * A decentralized peer-to-peer network for sharing and verifying cyber threat intelligence.
     * *Stack:* Python, Flask, C.
