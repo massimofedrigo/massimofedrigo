@@ -49,15 +49,15 @@ Here are some of the open-source and personal projects I'm working on:
     * A decentralized peer-to-peer network for sharing and verifying cyber threat intelligence.
     * *Stack:* Python, Flask, C.
 
-* **[Synthetic Pages](https://github.com/massimofedrigo/synthetic-pages)** (2025)
-    * Automated static website generator using LLM prompts and Google Trends analysis.
-    * *Stack:* Python, Jinja2, LLM APIs.
-
 * **[AlgoWiki](https://algowiki.dev)** (2024)
     * An educational catalog of algorithms featuring complexity analysis and correctness proofs.
     * *Stack:* Markdown, Mkdocs.
 
-* **[Algostudio](https://github.com/massimofedrigo/algostudio)** (2024)
+* **[Synthetic Pages](https://github.com/massimofedrigo/synthetic-pages)** (2025)
+    * Automated static website generator using LLM prompts and Google Trends analysis.
+    * *Stack:* Python, Jinja2, LLM APIs.
+
+* **Algostudio** (2024) - private repository
     * A C++ framework to test correctness and calculate the empirical complexity of algorithms.
 
 ---
