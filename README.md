@@ -62,12 +62,6 @@ Here are some of the open-source and personal projects I'm working on:
 
 ---
 
-### 📊 GitHub Stats
-
-![Massimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=massimofedrigo&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with me
 
 If you want to collaborate on a project or discuss algorithms and security:
